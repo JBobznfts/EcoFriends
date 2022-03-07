@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4C3733c414f45fAB23e4F51c5F9bbD5E31BF2960",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x4C3733c414f45fAB23e4F51c5F9bbD5E31BF2960",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "EcoFriends",
+  "SYMBOL": "EFNFT",
+  "MAX_SUPPLY": 448,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/eco-friends1",
+  "SHOW_BACKGROUND": true
+}
